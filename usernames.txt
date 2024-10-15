@@ -1,10 +1,6 @@
 www
 www-data
 user
-rpc
-rpcuser
-oracle
-nobody
 guest
 backup
 administrator
